@@ -26,7 +26,7 @@ function Main() {
           <p className="text-4xl font-semibold text-green-600">$449</p>
           <p className="text-md line-through">$169.99</p>
         </section>
-        <button className="w-full bg-green-600 text-white px-4 py-3 rounded-md hover:bg-green-800">
+        <button className="w-full bg-green-800 text-white px-4 py-3 rounded-md hover:bg-green-900">
           Add to Cart
         </button>
       </section>
